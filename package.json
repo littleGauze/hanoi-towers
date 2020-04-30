@@ -1,0 +1,12 @@
+{
+  "name": "hanoi-towers",
+  "version": "1.0.0",
+  "description": "Hello world new project template.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cocos", "game", "typescript", "hanoi", "hanoi towers"],
+  "author": "",
+  "license": "ISC"
+}
