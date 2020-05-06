@@ -9,7 +9,7 @@
   "packageName": "org.cocos2d.helloworld",
   "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
   "title": "hanoi-towers",
-  "webOrientation": "auto",
+  "webOrientation": "landscape",
   "includeSDKBox": false,
   "inlineSpriteFrames": true,
   "inlineSpriteFrames_native": true,
